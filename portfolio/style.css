@@ -1,4 +1,18 @@
+/* Css general */
 body{
-    background-color:#161A1D;
-    color: #FFFFFF;
+    background-color:#FEFBFF;
+    color: #1D1C17;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+
+/* Css de id y clases */
+.hashtag{
+    color: #006874;
+}
+
+#experiencia{
+    background-color: #1d1c16;
+    color: #FEFBFF;
+    
 }
