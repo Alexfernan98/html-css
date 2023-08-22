@@ -1,18 +1,33 @@
 /* Css general */
 body{
-    background-color:#FEFBFF;
-    color: #1D1C17;
-    font-family:Arial, Helvetica, sans-serif;
+    background-color:#006874;
+    color: #ffffff;
+    font-family: 'Overpass Mono', monospace;
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+    font-weight: 200;
 }
 
+h2{
+    font-size: 36px;
+    font-weight: 300;
+}
 
+h3{
+    font-size: 18px;
+    font-weight: 300
+}
+
+#sobre-mi{
+    font-weight: 300;
+}
 /* Css de id y clases */
 .hashtag{
-    color: #006874;
+    color: #97f0ff;
 }
 
 #experiencia{
-    background-color: #1d1c16;
-    color: #FEFBFF;
+    background-color: #97f0ff;
+    color: #001f24;
     
 }
