@@ -5,7 +5,7 @@
 }
 /* Css general */
 body{
-    background-color:#006874;
+    background-color:#051533;
     color: #ffffff;
     font-family: 'Overpass Mono', monospace;
     font-family: 'Poppins', sans-serif;
@@ -31,8 +31,14 @@ h3{
 
 .hashtag{
     color: #97f0ff;
+    min-height: 18px;
 }
-
+#inicio{
+    background-image: url(../portfolio/images/black-bg-recortado.jpg);
+    min-height: 280px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 #experiencia{
     background-color: #97f0ff;
     color: #001f24;
